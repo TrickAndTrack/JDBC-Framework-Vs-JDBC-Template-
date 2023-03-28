@@ -14,7 +14,7 @@ class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 ## JDBC Template 
 ```java
 # Database properties
-spring.datasource.url=jdbc:mysql://localhost:3306/mydb
+spring.datasource.url=jdbc:mysql://localhost:3306/TEST
 spring.datasource.username=username
 spring.datasource.password=password
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
